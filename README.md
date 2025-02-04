@@ -1,8 +1,6 @@
-# React + Vite
+Food Ordering Website (React.js)
+Designed a dynamic and interactive food ordering platform with real-time search, category-based filtering (Pizza, Breakfast, Lunch), cart management, and automated bill calculation.
+Tech Stack: React.js, JavaScript, Tailwind CSS.
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
 
-Currently, two official plugins are available:
-
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+![Image](https://github.com/user-attachments/assets/c2f8874b-9af8-4424-b692-bb63cdd97277)
